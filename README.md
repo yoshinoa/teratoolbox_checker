@@ -1,2 +1,2 @@
 # teratoolbox_checker
-tera_toolbox_whitelist_checker
+change NAMEOFUSER in python file to your name, if you have a different path for toolbox replace the whole path
