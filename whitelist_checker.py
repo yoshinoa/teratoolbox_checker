@@ -2,7 +2,7 @@ from os import walk, path
 import os.path
 import time
 from typing import List, Optional
-NAMEOFUSER = "random"
+NAMEOFUSER = "YOURUSERNAME"
 whitelist_list = 'whitelist.txt'
 toolbox_folder = "C:\\Users\\" + NAMEOFUSER +\
                  r"\AppData\Local\Programs\TeraToolbox\mods"
